@@ -10,3 +10,8 @@ body {
 .txtclrorg{
     color: rgb(255, 121, 4);
 }
+.cardbgtxtclr{
+    background-color: bisque;
+    color: #2f2f30;
+
+}
