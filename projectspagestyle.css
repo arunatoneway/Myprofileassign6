@@ -1,5 +1,27 @@
 body {
-            background-color: #2f2f30;
-            color: #f4f4f4;
+    background-color: #2f2f30;
+    color: bisque;
 
-        }
+}
+
+
+.cardbgtxtclr{
+    background-color: bisque;
+    color: #2f2f30;
+
+}
+
+.orgbtn{
+    background-color:rgb(255, 121, 4);
+    color: #2f2f30;
+
+}
+.txtclrorg{
+    color: rgb(255, 121, 4);
+}
+.txtclrbrwn{
+    color: #2f2f30;
+    
+
+}
+
