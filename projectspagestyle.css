@@ -24,4 +24,11 @@ body {
     
 
 }
+.orgshad{
+    box-shadow: 0 1px 6px rgb(255, 121, 4);
+}
+
+.imgbrwnish{
+    filter: sepia(100%) brightness(100%) contrast(110%) saturate(6);
+}
 
