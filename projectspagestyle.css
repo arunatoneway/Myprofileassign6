@@ -1,0 +1,34 @@
+body {
+    background-color: #2f2f30;
+    color: bisque;
+
+}
+
+
+.cardbgtxtclr{
+    background-color: bisque;
+    color: #2f2f30;
+
+}
+
+.orgbtn{
+    background-color:rgb(255, 121, 4);
+    color: #2f2f30;
+
+}
+.txtclrorg{
+    color: rgb(255, 121, 4);
+}
+.txtclrbrwn{
+    color: #2f2f30;
+    
+
+}
+.orgshad{
+    box-shadow: 0 1px 6px rgb(255, 121, 4);
+}
+
+.imgbrwnish{
+    filter: sepia(100%) brightness(100%) contrast(110%) saturate(6);
+}
+
